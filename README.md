@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Christina Makri
 
-**Software Engineer @ Netcompany‑Intrasoft**  
+**AI Engineer @ Netcompany**  
 🎓 MSc Candidate in Artificial Intelligence  
 📍 Based in Thessaloniki, Greece
 
@@ -8,9 +8,9 @@
 
 ## 💼 About Me
 
-I’m a software engineer passionate about combining robust backend systems with intelligent, explainable AI solutions.  
-With a strong foundation in Java development and academic specialization in AI and Semantic Web technologies,  
-I aim to bridge traditional engineering with data-driven, semantic, and ethical AI systems.
+I’m an AI Engineer focused on designing and deploying intelligent, explainable AI systems grounded in solid software engineering principles.
+With a strong background in Java-based backend development and academic specialization in Artificial Intelligence and Semantic Web technologies,
+I build data-driven, semantic, and ethically aware AI solutions that move from research to real-world applications.
 
 ---
 
@@ -20,7 +20,7 @@ I aim to bridge traditional engineering with data-driven, semantic, and ethical 
 Java • Python • SQL • React • HTML/CSS
 
 ### 🧠 AI / Machine Learning
-Feature Engineering • Model Evaluation • Scikit-learn • TensorFlow • PyTorch  
+Agentic AI • Feature Engineering • Model Evaluation • Scikit-learn • TensorFlow • PyTorch  
 NLP • Transformers • Sentiment Analysis • Explainable AI • Prompt Engineering • LLMs
 
 ### 🌐 Semantic Web Technologies
