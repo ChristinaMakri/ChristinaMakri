@@ -8,26 +8,25 @@
 
 ## 💼 About Me
 
-I’m an AI Engineer focused on designing and deploying intelligent, explainable AI systems grounded in solid software engineering principles.
-With a strong background in Java-based backend development and academic specialization in Artificial Intelligence and Semantic Web technologies,
-I build data-driven, semantic, and ethically aware AI solutions that move from research to real-world applications.
+AI Engineer with experience in Machine Learning, LLM-based systems, and multi-agent architectures. Currently building production-ready AI solutions for real-world applications, including enterprise and banking use cases. Completing an MSc in Artificial Intelligence, with a thesis on multi-agent systems for disaster response and rescue operations. Focused on scalable, reliable AI systems that combine learning, reasoning, and automation.
 
 ---
 
 ## 🚀 Technical Skillset
 
-### 🖥️ Programming Languages
-Java • Python • SQL • React • HTML/CSS
-
 ### 🧠 AI / Machine Learning
-Agentic AI • Feature Engineering • Model Evaluation • Scikit-learn • TensorFlow • PyTorch  
+Agentic AI • RAG • Multi-Agent Systems • Reinforcement Learning • Vector Search
+Feature Engineering • Model Evaluation • Scikit-learn • TensorFlow • PyTorch  
 NLP • Transformers • Sentiment Analysis • Explainable AI • Prompt Engineering • LLMs
 
 ### 🌐 Semantic Web Technologies
 RDF • OWL • SPARQL • Ontology Modelling • Protégé
 
+### 🖥️ Programming Languages
+Java • Python • SQL 
+
 ### 🧰 Tools & Frameworks
-Spring Boot • Maven • JIRA • GitHub • IntelliJ • VS Code • Postman • Docker
+Docker • LangGraph
 
 ### 🧠 Soft Skills
 Problem Solving • Team Collaboration • Communication • Critical Thinking  
