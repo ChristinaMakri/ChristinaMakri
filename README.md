@@ -8,29 +8,12 @@
 
 ## 💼 About Me
 
-AI Engineer with experience in Machine Learning, LLM-based systems, and multi-agent architectures. Currently building production-ready AI solutions for real-world applications, including enterprise and banking use cases. Completing an MSc in Artificial Intelligence, with a thesis on multi-agent systems for disaster response and rescue operations. Focused on scalable, reliable AI systems that combine learning, reasoning, and automation.
+I started my career writing backend software, learning how production systems are built, maintained, and scaled. Over time, I found myself increasingly drawn to Artificial Intelligence—not because it was the latest trend, but because it changes the way software can solve problems.
 
----
+Today I work as an AI Engineer, building applications around LLMs and AI agents. What I enjoy most isn’t the model itself; it’s everything around it: designing the architecture, connecting the pieces, making systems reliable, and turning an idea into something people can actually use.
 
-## 🚀 Technical Skillset
+I like working where software engineering meets AI. To me, good AI isn’t just about getting impressive responses—it’s about building systems that are dependable, maintainable, and ready for production.
 
-### 🧠 AI / Machine Learning
-Agentic AI • RAG • Multi-Agent Systems • Reinforcement Learning • Vector Search
-Feature Engineering • Model Evaluation • Scikit-learn • TensorFlow • PyTorch  
-NLP • Transformers • Sentiment Analysis • Explainable AI • Prompt Engineering • LLMs
-
-### 🌐 Semantic Web Technologies
-RDF • OWL • SPARQL • Ontology Modelling • Protégé
-
-### 🖥️ Programming Languages
-Java • Python • SQL 
-
-### 🧰 Tools & Frameworks
-Docker • LangGraph
-
-### 🧠 Soft Skills
-Problem Solving • Team Collaboration • Communication • Critical Thinking  
-Adaptability • Ethical Awareness
 
 ---
 
