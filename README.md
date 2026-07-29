@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Christina Makri
 
 **AI Engineer @ Netcompany**  
-🎓 MSc Candidate in Artificial Intelligence  
+🎓 MSc in Artificial Intelligence  
 📍 Based in Thessaloniki, Greece
 
 ---
