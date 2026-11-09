@@ -1,4 +1,4 @@
-<img src="assets/terminal.svg" alt="Christina Makri — AI Engineer @ Netcompany. MSc in Artificial Intelligence. Based in Thessaloniki, Greece." width="100%">
+<img src="assets/terminal.svg?v=2" alt="Christina Makri — AI Engineer @ Netcompany. MSc in Artificial Intelligence. Based in Thessaloniki, Greece." width="100%">
 
 ## 🤝 Connect with Me
 
