@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Christina Makri
+<img src="assets/terminal.svg" alt="Hi, I’m Christina Makri — AI Engineer" width="100%">
 
 **AI Engineer @ Netcompany**  
 🎓 MSc in Artificial Intelligence  

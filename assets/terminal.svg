@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="230" viewBox="0 0 820 230" role="img" aria-label="Christina Makri — AI Engineer">
+  <style>
+    :root { --bg:#f6f8fa; --bar:#eaeef2; --fg:#24292f; --p:#0969da; --name:#8250df; --border:#d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg:#0d1117; --bar:#161b22; --fg:#c9d1d9; --p:#58a6ff; --name:#d2a8ff; --border:#30363d; }
+    }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size:16px; fill:var(--fg); white-space:pre; }
+    .win { fill:var(--bg); stroke:var(--border); }
+    .bar { fill:var(--bar); }
+    .p { fill:var(--p); }
+    .name { font-size:24px; font-weight:700; fill:var(--name); }
+    .cursor { fill:var(--fg); animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0; } }
+  </style>
+  <rect x="1" y="1" width="818" height="228" rx="10" class="win"/>
+  <path d="M1 11a10 10 0 0 1 10-10h798a10 10 0 0 1 10 10v23H1z" class="bar"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
+  <text x="24" y="70" class="cmd" opacity="0"><tspan class="p">christina@thessaloniki:~$ </tspan><tspan opacity="0">w<set attributeName="opacity" to="1" begin="1.00s" fill="freeze"/></tspan><tspan opacity="0">h<set attributeName="opacity" to="1" begin="1.09s" fill="freeze"/></tspan><tspan opacity="0">o<set attributeName="opacity" to="1" begin="1.18s" fill="freeze"/></tspan><tspan opacity="0">a<set attributeName="opacity" to="1" begin="1.27s" fill="freeze"/></tspan><tspan opacity="0">m<set attributeName="opacity" to="1" begin="1.36s" fill="freeze"/></tspan><tspan opacity="0">i<set attributeName="opacity" to="1" begin="1.45s" fill="freeze"/></tspan><set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/></text>
+  <text x="24" y="104" class="name" opacity="0">Christina Makri<set attributeName="opacity" to="1" begin="1.89s" fill="freeze"/></text>
+  <text x="24" y="130" class="cmd" opacity="0"><tspan class="p">christina@thessaloniki:~$ </tspan><tspan opacity="0">c<set attributeName="opacity" to="1" begin="2.79s" fill="freeze"/></tspan><tspan opacity="0">a<set attributeName="opacity" to="1" begin="2.88s" fill="freeze"/></tspan><tspan opacity="0">t<set attributeName="opacity" to="1" begin="2.97s" fill="freeze"/></tspan><tspan opacity="0"> <set attributeName="opacity" to="1" begin="3.06s" fill="freeze"/></tspan><tspan opacity="0">r<set attributeName="opacity" to="1" begin="3.15s" fill="freeze"/></tspan><tspan opacity="0">o<set attributeName="opacity" to="1" begin="3.24s" fill="freeze"/></tspan><tspan opacity="0">l<set attributeName="opacity" to="1" begin="3.33s" fill="freeze"/></tspan><tspan opacity="0">e<set attributeName="opacity" to="1" begin="3.42s" fill="freeze"/></tspan><tspan opacity="0">.<set attributeName="opacity" to="1" begin="3.51s" fill="freeze"/></tspan><tspan opacity="0">t<set attributeName="opacity" to="1" begin="3.60s" fill="freeze"/></tspan><tspan opacity="0">x<set attributeName="opacity" to="1" begin="3.69s" fill="freeze"/></tspan><tspan opacity="0">t<set attributeName="opacity" to="1" begin="3.78s" fill="freeze"/></tspan><set attributeName="opacity" to="1" begin="2.39s" fill="freeze"/></text>
+  <text x="24" y="160" class="out" opacity="0">AI Engineer @ Netcompany · LLM apps &amp; AI agents · MSc in AI<set attributeName="opacity" to="1" begin="4.22s" fill="freeze"/></text>
+  <text x="24" y="190" class="cmd" opacity="0"><tspan class="p">christina@thessaloniki:~$ </tspan><tspan class="cursor">█</tspan><set attributeName="opacity" to="1" begin="4.72s" fill="freeze"/></text>
+</svg>
